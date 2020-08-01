@@ -1,0 +1,13 @@
+atexit
+bs4
+pandas
+en_core_web_sm
+matplotlib
+newspaper
+numpy
+re
+seaborn
+sklearn
+spacy
+sqlite3
+urllib
