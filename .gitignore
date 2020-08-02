@@ -1,2 +1,4 @@
 __pycache__
-*.db
+.idea/
+src/.DS_Store
+src/jupyter/.ipynb_checkpoints/
