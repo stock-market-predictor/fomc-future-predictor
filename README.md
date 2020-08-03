@@ -16,7 +16,7 @@
 
 Run ```python3 src/py_files/data_extraction.py``` to scrape and process the data used in this project. This data will be stored in `src/data/meeting_future_combined_data.csv`.
 
-To generate the graphs, run ```python src/py_files/preliminary_analysis.py``` for figures comparing the FOMC decision and the Federal Funds future (the first three figures explained below) and run ```python src/py_files/expectation_analysis.py``` for the last figure on the correlation between the FOMC decision and investor expectations for the meeting.
+To generate the graphs, run ```python src/py_files/preliminary_analysis.py``` for figures comparing the FOMC decision and the Federal Funds future (the first three figures explained below) and run ```python src/py_files/expectation_analysis.py``` for the last figure on the correlation between the FOMC decision and investor expectations for the meeting (further explained below).
 
 ### Analysis
 
